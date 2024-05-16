@@ -165,7 +165,6 @@ USE_I18N = True
 
 USE_TZ = True
 
-
 # Account Setup
 
 ACCOUNT_AUTHENTICATION_METHOD = 'username_email'
