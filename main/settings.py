@@ -48,6 +48,7 @@ INSTALLED_APPS = [
 
     # Apps
     'home',
+    # BUG: The listed 'recipes' module is causing an error as it is not found.
     'recipes',
     'profiles',
     'meal_planner',
